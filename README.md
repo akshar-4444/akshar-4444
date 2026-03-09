@@ -10,7 +10,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=akshar-4444&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/akshardhameliya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/akshardhameliya) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
